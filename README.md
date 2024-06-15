@@ -1,2 +1,2 @@
 # Sample-Repo
-print("This is my first line of code")
+this is a sample repository i created in regards to one of my assignments
